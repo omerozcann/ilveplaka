@@ -1,0 +1,9 @@
+d:\belgeler\visual studio 2015\Projects\ilplaka\ilplaka\bin\Debug\ilplaka.exe.config
+d:\belgeler\visual studio 2015\Projects\ilplaka\ilplaka\bin\Debug\ilplaka.exe
+d:\belgeler\visual studio 2015\Projects\ilplaka\ilplaka\bin\Debug\ilplaka.pdb
+d:\belgeler\visual studio 2015\Projects\ilplaka\ilplaka\obj\Debug\ilplaka.csprojResolveAssemblyReference.cache
+d:\belgeler\visual studio 2015\Projects\ilplaka\ilplaka\obj\Debug\ilplaka.ilplakaFrm.resources
+d:\belgeler\visual studio 2015\Projects\ilplaka\ilplaka\obj\Debug\ilplaka.Properties.Resources.resources
+d:\belgeler\visual studio 2015\Projects\ilplaka\ilplaka\obj\Debug\ilplaka.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2015\Projects\ilplaka\ilplaka\obj\Debug\ilplaka.exe
+d:\belgeler\visual studio 2015\Projects\ilplaka\ilplaka\obj\Debug\ilplaka.pdb
